@@ -1,0 +1,9 @@
+MX Switch, 15, MX-compatible mechanical switches, Any type
+1N4148 Diodes, 15, D_DO-35 through-hole diodes, One per switch
+EC11 Rotary Encoder, 1, Alps Switch_Vertical H20mm,	With mounting holes
+SK6812MINI LEDs, 3, LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm, RGB
+XIAO RP2040, 1, XIAO-RP2040-DIP, Main controller
+Keycaps, 15, DSA profile keycaps , Any MX compatible
+M3x Screws 16mm, 4, M3 Bolts, For Case assembly
+Heatset Insert M3x5x4, 4, Brass inserts, For case assembly
+3D Printed Case,1,Top and bottom shells,Designed in Fusion360
